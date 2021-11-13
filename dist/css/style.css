@@ -1,0 +1,27 @@
+.box {
+    border-bottom: 1px solid gray;
+}
+
+h1 {
+    /* background: rebeccapurple; */
+}
+.main {
+    width: 95%;
+    /* background: green; */
+}
+.box p {
+    display: inline-block;
+}
+.left {
+    width: 93%;
+}
+.footer {
+    border-top: 1px solid gray;
+}
+h1,
+h2,
+.left,
+.right, {
+    text-transform: capitalize;
+}
+
